@@ -1,62 +1,88 @@
-# Hi there, I'm Vairag 👨💻
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Vairag Patel</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-
-### 🛠️ Tech Stack
-
-**Languages:**
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Tools:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <marquee behavior="alternate" scrollamount="5" direction="right" width="70%">
+    💡 Turning Ideas into Code 💻 | Debugging Life One Line at a Time
+  </marquee>
+</p>
 
 ---
 
-### 🏆 Coding Profiles
+### 🧠 About Me
 
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/VairagPatel18/)
-[![GeeksForGeeks Profile](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vairagte1xq9)
-
-**LeetCode Stats:**  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vairag-akbari?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/u/VairagPatel18/)
-
-**GFG Stats:**  
-![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
-![Coding Score](https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=flat-square)
-![Course Completion](https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=flat-square)
-![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=flat-square)
+💻 I'm passionate about **coding**, learning new technologies, and building real-world projects.  
+🎯 I enjoy solving problems with code and exploring areas like **machine learning**, **web development**, and **automation**.
 
 ---
 
-### 🚀 Projects
+### 🌐 Online Profiles
 
-#### [Real-Time Text Translator Chrome Extension](https://github.com/Varni1512/LanguageTranslatorExtension)
-- **Tech Stack:** HTML, CSS, JS
-- To help users quickly understand foreign language text without leaving the webpage.
-  
----
-
-### 📈 GitHub Activity
-
-![Vairag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VairagPatel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VairagPatel&layout=compact&theme=radical&hide_border=true)
-
-[![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VairagPatel&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://leetcode.com/u/vairag-akbari/"><img src="https://img.shields.io/badge/🟧%20LeetCode-vairag--akbari-orange?style=flat-square"></a>
+  <a href="https://www.geeksforgeeks.org/user/vairag_akbari/"><img src="https://img.shields.io/badge/💚%20GeeksforGeeks-vairag__akbari-28a745?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/vairagakbari/"><img src="https://img.shields.io/badge/🔵%20LinkedIn-vairagakbari-blue?style=flat-square"></a>
+  <a href="https://github.com/VairagPatel"><img src="https://img.shields.io/badge/⚫%20GitHub-VairagPatel-24292e?style=flat-square"></a>
+</p>
 
 ---
 
-### 📫 Let's Connect!
+### 💼 Skills & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vairagakbari)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vairag.techwork@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vairag_patel18)
+#### 🧑‍💻 Programming Languages
+- ☕ **Java**
+- 🐍 **Python**
+- 🧠 **C++**
+- 🌐 **JavaScript**
+
+#### 🎨 Frontend Development
+- 🖌️ **HTML**
+- 🎨 **CSS**
+- ⚛️ **React**
+- 💨 **Tailwind CSS**
+
+#### 🛠️ Backend Development
+- 🌐 **Node.js**
+- 🚂 **Express.js**
+
+#### 🗄️ Databases
+- 🍃 **MongoDB**
+- 🐬 **MySQL**
+
+#### 🧠 Machine Learning & Data
+- 📊 **scikit-learn**
+- 🔍 **TensorFlow**
+- 📘 **Pandas**
+- 🔢 **NumPy**
+
+#### 🧰 Tools & Platforms
+- 🧪 **Postman**
+- 🧑‍💻 **VS Code**
+- 🐙 **Git & GitHub**
 
 ---
 
+### 📊 GitHub & Coding Stats
 
-⭐ From Vairag Akbari 
+#### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VairagPatel&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VairagPatel&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+#### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vairag-akbari?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 **Email**: [vairag.techwork@gmail.com](mailto:vairag.techwork@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/vairagakbari](https://www.linkedin.com/in/vairagakbari/)
+- 🌍 **GitHub**: [github.com/VairagPatel](https://github.com/VairagPatel)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect with me.* 😊
