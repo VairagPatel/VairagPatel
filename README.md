@@ -89,6 +89,29 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VairagPatel&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VairagPatel&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophy"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+
+
+
 #### 🧩 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vairag-akbari?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
