@@ -8,15 +8,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
-
 <h1 align="left">💫 About Me:</h1>
 
 - 🔭 **Currently working on:** Full Stack Development, Machine Learning, and AI Projects  
 - 🌱 **Currently learning:** MERN Stack, DSA (Java), and Deep Learning  
 - 👯 **Open to collaborate on:** ML/AI, Web Dev & Open Source Projects  
 - 💬 **Ask me about:** Java, Python, React, Node, MongoDB, and ML tools  
-- 📫 **How to reach me:** vairagpatel00@gmail.com  
+- 📫 **How to reach me:** vairag.techwork@gmail.com  
 - ⚡ **Fun fact:** I love building things that make life easier, and I’m always up for chess or online games!  
 
 ---
