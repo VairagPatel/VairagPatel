@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <span style="color:#54A6FF">Vairag Patel</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+<h1 align="center">Hey there! I'm <span style="color:#54A6FF">Vairag Akbari</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;Building+Scalable+Backends;Problem+Solver+(DSA)" alt="Typing SVG" />
@@ -73,9 +73,8 @@
 
 #### 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vairag-akbari?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Vairag0310?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
