@@ -75,7 +75,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Vairag0310?theme=dark&font=Montserrat&ext=activity" alt="LeetCode Stats" />
 </p>
----
 
 ### 📫 Let's Connect!
 
