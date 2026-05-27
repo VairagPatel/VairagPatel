@@ -25,7 +25,7 @@
 ```
 // SYSTEM STATUS ─────────────────────────────────────────────────────────────
 [ ROLE     ]  Java Developer Trainee @ HulkHire  ·  Apr 2026 – Ongoing
-[ EDUCATION]  B.Tech CSE · VIT Bhopal · CGPA 8.37 / 10  ·  2022 – 2026
+[ EDUCATION]  B.Tech CSE · VIT Bhopal · CGPA 8.43 / 10  ·  2022 – 2026
 [ LOCATION ]  India
 [ STATUS   ]  ▶ OPEN FOR — Java Backend · Microservices · AI Integration
 // ───────────────────────────────────────────────────────────────────────────
