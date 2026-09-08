@@ -35,30 +35,51 @@
 
 ## `// 01 ─ HOW I OPERATE`
 
+**BUILD TRACK**
 ```
-BUILD TRACK                                  GROW TRACK
-CLIENT (React.js)                            LEAD SOURCE (Inbound / Outbound)
-      │ HTTPS / WSS                                │
-      ▼                                             ▼
-┌─────────────────────┐                     ┌─────────────────────┐
-│    API GATEWAY       │  ← Nginx+Spring     │   OUTREACH ENGINE     │  ← Sheets + Apps Script
-└─────────┬───────────┘                     └─────────┬───────────┘
-          │ JWT Validation → Route                     │ Qualify → Pitch → Negotiate
-          ▼                                             ▼
-┌──────────────────────────────────────┐     ┌──────────────────────────────────────┐
-│ AUTH │ INVOICE │ PAYMENT │ AI SERVICE │     │ LEAD MGMT │ SITE VISITS │ DEAL CLOSURE │
-│ JWT  │ GST+PDF │ Razorpay│ Gemini/AI  │     │ Twenty CRM│ Coordination│ 2% Commission│
-└──────────────────────────────────────┘     └──────────────────────────────────────┘
-          │ Async Processing + Caching                  │ Data Logging + Reporting
-          ▼                                             ▼
-┌─────────────────────────────────┐          ┌─────────────────────────────────┐
-│ PostgreSQL │ MongoDB │ Redis │ EC2│         │ Excel │ Google Sheets │ Twenty CRM│
-└─────────────────────────────────┘          └─────────────────────────────────┘
-          │ CI/CD Pipeline                              │ Post-Close Docs
-          ▼                                             ▼
-┌──────────────────────────────┐             ┌──────────────────────────────┐
-│ Docker Compose │ GH Actions   │             │ Legal Handoff │ Key Transfer  │
-└──────────────────────────────┘             └──────────────────────────────┘
+CLIENT (React.js)
+      │ HTTPS / WSS
+      ▼
+┌─────────────────────┐
+│    API GATEWAY       │  ← Nginx + Spring Boot
+└─────────┬───────────┘
+          │ JWT Validation → Route
+          ▼
+┌──────────────────────────────────────────────────────┐
+│  AUTH SERVICE  │  INVOICE SERVICE  │  PAYMENT SERVICE │  AI SERVICE
+│  JWT/OAuth2.0  │  GST+PDF Engine   │  Razorpay/PayPal │  Gemini/Stability
+└──────────────────────────────────────────────────────┘
+          │ Async Processing + Caching
+          ▼
+┌─────────────────────────────────────────────┐
+│  PostgreSQL  │  MongoDB  │  Redis  │  AWS EC2 │
+└─────────────────────────────────────────────┘
+          │ CI/CD Pipeline
+          ▼
+┌──────────────────────────────────┐
+│  Docker Compose  │  GitHub Actions │
+└──────────────────────────────────┘
+```
+
+**GROW TRACK**
+```
+LEAD SOURCE (Inbound / Outbound)
+      │
+      ▼
+┌─────────────────────┐
+│   OUTREACH ENGINE     │  ← Google Sheets + Apps Script
+└─────────┬───────────┘
+          │ Qualify → Pitch → Negotiate
+          ▼
+┌──────────────────────────────────────────────────────────────┐
+│  LEAD MGMT   │  SITE VISITS   │  DEAL CLOSURE   │ POST-CLOSE  │
+│  Twenty CRM  │  Coordination  │  2% Commission  │ Docs+Legal  │
+└──────────────────────────────────────────────────────────────┘
+          │ Data Logging + Reporting
+          ▼
+┌───────────────────────────────────────────────────────┐
+│  Excel  │  Google Sheets  │  Conversion Dashboards      │
+└───────────────────────────────────────────────────────┘
 ```
 
 ---
