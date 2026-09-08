@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=800&color=E74C3C&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+AWS;AI+Integration+%7C+Docker+%7C+Redis;Building+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=800&color=E74C3C&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+AWS;Business+Development+%26+GTM;Excel+%7C+Sheets+%7C+Data-Driven+Growth;Building+Systems+%26+Closing+Deals" alt="Typing SVG" />
 
 <br/>
 
@@ -24,54 +24,57 @@
 
 ```
 // SYSTEM STATUS ─────────────────────────────────────────────────────────────
-[ ROLE     ]  Java Developer Trainee @ HulkHire  ·  Apr 2026 – Ongoing
+[ ROLE     ]  Business Development Executive & GTM @ Jumbo Homes   ·  Jun 2026 – Ongoing
 [ EDUCATION]  B.Tech CSE · VIT Bhopal · CGPA 8.43 / 10  ·  2022 – 2026
-[ LOCATION ]  India
-[ STATUS   ]  ▶ OPEN FOR — Java Backend · Microservices · AI Integration
+[ LOCATION ]  Bangalore, India
+[ STATUS   ]  ▶ OPEN FOR — Java Backend · GTM/Business Ops · AI Integration · Data-Driven Growth
 // ───────────────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## `// 01 ─ ARCHITECTURE FOCUS`
+## `// 01 ─ HOW I OPERATE`
 
 ```
-CLIENT (React.js)
-      │ HTTPS / WSS
-      ▼
-┌─────────────────────┐
-│    API GATEWAY       │  ← Nginx + Spring Boot
-└─────────┬───────────┘
-          │ JWT Validation → Route
-          ▼
-┌──────────────────────────────────────────────────────┐
-│  AUTH SERVICE  │  INVOICE SERVICE  │  PAYMENT SERVICE │  AI SERVICE
-│  JWT/OAuth2.0  │  GST+PDF Engine   │  Razorpay/PayPal │  Gemini/Stability
-└──────────────────────────────────────────────────────┘
-          │ Async Processing + Caching
-          ▼
-┌─────────────────────────────────────────────┐
-│  PostgreSQL  │  MongoDB  │  Redis  │  AWS EC2 │
-└─────────────────────────────────────────────┘
-          │ CI/CD Pipeline
-          ▼
-┌──────────────────────────────────┐
-│  Docker Compose  │  GitHub Actions │
-└──────────────────────────────────┘
+BUILD TRACK                                  GROW TRACK
+CLIENT (React.js)                            LEAD SOURCE (Inbound / Outbound)
+      │ HTTPS / WSS                                │
+      ▼                                             ▼
+┌─────────────────────┐                     ┌─────────────────────┐
+│    API GATEWAY       │  ← Nginx+Spring     │   OUTREACH ENGINE     │  ← Sheets + Apps Script
+└─────────┬───────────┘                     └─────────┬───────────┘
+          │ JWT Validation → Route                     │ Qualify → Pitch → Negotiate
+          ▼                                             ▼
+┌──────────────────────────────────────┐     ┌──────────────────────────────────────┐
+│ AUTH │ INVOICE │ PAYMENT │ AI SERVICE │     │ LEAD MGMT │ SITE VISITS │ DEAL CLOSURE │
+│ JWT  │ GST+PDF │ Razorpay│ Gemini/AI  │     │ Twenty CRM│ Coordination│ 2% Commission│
+└──────────────────────────────────────┘     └──────────────────────────────────────┘
+          │ Async Processing + Caching                  │ Data Logging + Reporting
+          ▼                                             ▼
+┌─────────────────────────────────┐          ┌─────────────────────────────────┐
+│ PostgreSQL │ MongoDB │ Redis │ EC2│         │ Excel │ Google Sheets │ Twenty CRM│
+└─────────────────────────────────┘          └─────────────────────────────────┘
+          │ CI/CD Pipeline                              │ Post-Close Docs
+          ▼                                             ▼
+┌──────────────────────────────┐             ┌──────────────────────────────┐
+│ Docker Compose │ GH Actions   │             │ Legal Handoff │ Key Transfer  │
+└──────────────────────────────┘             └──────────────────────────────┘
 ```
 
 ---
 
 ## `// 02 ─ CURRENT ROLE`
 
-**Java Developer Trainee — HulkHire** `[ APR 2026 – ONGOING ]`
-
+**Business Development Executive & GTM — Jumbo Homes** `[ FOUNDER'S OFFICE INTERN · JUN 2026 – ONGOING ]`
 ```
-▸ Microservices architecture using IoC/DI + Spring Boot auto-configuration
-▸ Deployed services on AWS EC2, containerized with Docker
-▸ Integrated PayPal APIs with OAuth 2.0 for secure payment workflows
-▸ Implemented Redis caching — optimized API latency under concurrent load
-▸ Agile development with CI/CD via GitHub Actions
+▸ Own end-to-end zone: supply-side onboarding, demand outreach, offers, negotiation, closure
+▸ Run the outreach pipeline — call/qualify leads, pitch properties, follow up to site visit → close
+▸ Contributed to a 200% increase in monthly closures
+▸ Improved lead-to-site-visit conversion from 10–15% → 50–60%
+▸ Negotiate & close deals on-ground under a 2% seller-side commission model
+▸ Primary POC between buyers, sellers, tenants & internal teams for site visits
+▸ Maintain accurate deal/prospect data in Twenty CRM across every pipeline stage
+▸ Support post-close documentation, coordinating with legal through key transfer
 ```
 
 ---
@@ -83,7 +86,6 @@ CLIENT (React.js)
 <td width="50%">
 
 ### `[ INVOIZO ]` · Jan–Mar 2026
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47A248)
@@ -103,7 +105,6 @@ CLIENT (React.js)
 <td width="50%">
 
 ### `[ LUMAI ]` · Oct–Dec 2025
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=DC382D)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -117,6 +118,39 @@ CLIENT (React.js)
 ▸ Redis caching + async processing
 ▸ Docker multi-stage build behind Nginx
 ▸ Live deployed production environment
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### `[ OPERATOR AGENT ]` · Listing Image Pipeline · 2026
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+![LLM](https://img.shields.io/badge/LLM_Prompt_Engineering-0a0a0a?style=flat-square&logoColor=E74C3C)
+![Webhook](https://img.shields.io/badge/Webhook_%2F_API-0a0a0a?style=flat-square&logoColor=E74C3C)
+![CRM](https://img.shields.io/badge/Twenty_CRM-0a0a0a?style=flat-square&logoColor=E74C3C)
+
+```
+▸ Hybrid AI pipeline: raw photos → listing-ready images via CRM webhook
+▸ 3 human-approval gates built in — zero auto-approval by design
+▸ Prompts validated live; full pipeline architected end-to-end
+▸ Built for Jumbo Homes' Twenty CRM listing workflow
+```
+
+</td>
+<td width="50%">
+
+### `[ SELLER OUTREACH AGENT ]` · Mail Automation · 2026
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-0a0a0a?style=flat-square&logo=googlesheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Google_Apps_Script-0a0a0a?style=flat-square&logo=google&logoColor=4285F4)
+![Gmail](https://img.shields.io/badge/Gmail_API-0a0a0a?style=flat-square&logo=gmail&logoColor=EA4335)
+
+```
+▸ Google Sheets + Apps Script tool auto-generating outreach Gmail drafts
+▸ Converts raw lead-data rows into ready-to-send, personalized drafts
+▸ Turned manual outreach into a repeatable, scalable workflow
+▸ Freed the supply team to focus on live seller conversations
 ```
 
 </td>
@@ -176,6 +210,22 @@ CLIENT (React.js)
 ![PayPal](https://img.shields.io/badge/PayPal_API-141414?style=for-the-badge&logo=paypal&logoColor=003087)
 ![WebSocket](https://img.shields.io/badge/WebSocket-141414?style=for-the-badge&logoColor=white)
 
+**GTM & BUSINESS OPERATIONS**
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-c0392b?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-141414?style=for-the-badge&logo=googlesheets&logoColor=34A853)
+![Apps Script](https://img.shields.io/badge/Google_Apps_Script-141414?style=for-the-badge&logo=google&logoColor=4285F4)
+![Twenty CRM](https://img.shields.io/badge/Twenty_CRM-c0392b?style=for-the-badge&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-141414?style=for-the-badge&logo=googleworkspace&logoColor=4285F4)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-141414?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+
+**DATA & ANALYSIS**
+
+![Data Analysis](https://img.shields.io/badge/Data_Driven_Decisions-c0392b?style=for-the-badge&logoColor=white)
+![Conversion Analytics](https://img.shields.io/badge/Conversion_Analytics-141414?style=for-the-badge&logoColor=white)
+![Market Research](https://img.shields.io/badge/Market_%26_Competitive_Research-141414?style=for-the-badge&logoColor=white)
+![Pipeline Reporting](https://img.shields.io/badge/Pipeline_Reporting-c0392b?style=for-the-badge&logoColor=white)
+
 </div>
 
 ---
@@ -192,6 +242,15 @@ CLIENT (React.js)
 │  RANK → 979       │  RANK → 1504      │  RANK → 1428                │
 │                   │  400+ SOLVED      │                              │
 │                   │  94% ACCEPTANCE   │                              │
+└───────────────────┴───────────────────┴─────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    BUSINESS / GTM IMPACT — JUMBO HOMES               │
+├───────────────────┬───────────────────┬─────────────────────────────┤
+│  MONTHLY CLOSURES  │  LEAD → VISIT     │  COMMISSION MODEL           │
+│  +200%             │  10–15% → 50–60%  │  2% seller-side             │
 └───────────────────┴───────────────────┴─────────────────────────────┘
 ```
 
@@ -223,6 +282,7 @@ CLIENT (React.js)
 [ CODING BLOCKS   ]  Java & Data Structures and Algorithms       ·  Jan 2025
 [ CISCO/COURSERA  ]  The Bits and Bytes of Computer Networking   ·  2024
 [ IBM             ]  Journey to Cloud: Envisioning Your Solution ·  2024
+[ AMER. NEG. INST.]  Negotiation Professional Certificate        ·  Aug 2026
 ```
 
 ---
@@ -230,11 +290,14 @@ CLIENT (React.js)
 ## `// 07 ─ ACHIEVEMENTS`
 
 ```
-▸ TOP 30 TEAMS IN INDIA  —  GrabHack National Hackathon Finalist
-▸ LEETCODE 400+ PROBLEMS  —  94% acceptance rate · Rank 1504
-▸ CODEFORCES RANK 979     —  Competitive programming
-▸ CODECHEF RANK 1428      —  Algorithm challenges
-▸ PRESIDENT · GUJARATI CLUB — Led 100+ members · 2× participation growth
+▸ TOP 30 TEAMS IN INDIA     —  GrabHack National Hackathon Finalist
+▸ LEETCODE 400+ PROBLEMS    —  94% acceptance rate · Rank 1504
+▸ CODEFORCES RANK 979       —  Competitive programming
+▸ CODECHEF RANK 1428        —  Algorithm challenges
+▸ 200% MONTHLY CLOSURES     —  GTM execution at Jumbo Homes
+▸ 10–15% → 50–60% CONVERSION—  Lead-to-site-visit funnel, Jumbo Homes
+▸ PRESIDENT · GUJARATI CLUB — Garba Night: 5,000+ attendees, 100+ core team,
+                                2,000+ paid participants · 2× participation growth
 ▸ PRESIDENT · RAMANUJAN CLUB — 5+ events · 500+ students engaged
 ```
 
@@ -245,8 +308,7 @@ CLIENT (React.js)
 ```java
 @Architecture
 public class VairagAkbari {
-
-    private final String[] principles = {
+    private final String[] engineeringPrinciples = {
         "Microservices — loose coupling, high cohesion",
         "Caching strategies — Redis for hot data",
         "JWT + OAuth 2.0 — stateless auth at scale",
@@ -257,8 +319,17 @@ public class VairagAkbari {
         "CI/CD — GitHub Actions for zero-downtime deploys"
     };
 
+    private final String[] gtmPrinciples = {
+        "Pipeline management — qualify, pitch, negotiate, close",
+        "CRM hygiene — accurate deal/prospect data at every stage",
+        "Data-driven decisions — Excel + Sheets for conversion tracking",
+        "Workflow automation — Apps Script for repeatable outreach",
+        "Stakeholder management — buyers, sellers, tenants, legal",
+        "Process improvement — turning ad-hoc GTM into systems"
+    };
+
     public String currentFocus() {
-        return "Java Backend · Microservices · AI Integration";
+        return "Java Backend · Business Development & GTM · Data-Driven Growth";
     }
 }
 ```
@@ -270,8 +341,8 @@ public class VairagAkbari {
 ```
 // ─────────────────────────────────────────────────────
 //  OPEN FOR OPPORTUNITIES
-//  Java Backend · Microservices · AI Integration Roles
-//  India  ·  vairag.techwork@gmail.com
+//  Java Backend · GTM/Business Ops · AI Integration · Data-Driven Growth
+//  Bangalore, India  ·  vairag.techwork@gmail.com
 // ─────────────────────────────────────────────────────
 ```
 
