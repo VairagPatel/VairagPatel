@@ -24,10 +24,8 @@
 
 ```
 // SYSTEM STATUS ─────────────────────────────────────────────────────────────
-[ ROLE     ]  Business Development Executive & GTM @ Jumbo Homes   ·  Jun 2026 – Ongoing
 [ EDUCATION]  B.Tech CSE · VIT Bhopal · CGPA 8.43 / 10  ·  2022 – 2026
 [ LOCATION ]  Bangalore, India
-[ STATUS   ]  ▶ OPEN FOR — Java Backend · GTM/Business Ops · AI Integration · Data-Driven Growth
 // ───────────────────────────────────────────────────────────────────────────
 ```
 
